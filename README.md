@@ -6,7 +6,7 @@ I don't know how to put the markdowns from Jupyter directly into here, so I'm go
 
 There's some other additional stuff in the repository that I didn't put into here. 
 
-Part 7 is in the file called.....
+Part 7 is in the file called PythonExamFinal.py and another method is also seen in the end of the PythonExamFinal.ipynb. 
 
 # Observed Substrings 
 string = 'ATTTGGATT'
