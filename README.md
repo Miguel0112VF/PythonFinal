@@ -1,4 +1,4 @@
-# PythonFinal - The Reasoning Behind This Cacophany of Madness 
+# PythonFinal - The Reasoning Behind This Cacophony of Madness 
 
 The purpose of the code in this repository is to be able to measure in a given string the amount of observed substrings and possible substrings of any length as well as the linguistic complexity. 
 
