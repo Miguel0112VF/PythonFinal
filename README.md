@@ -4,6 +4,10 @@ The purpose of the code in this repository is to be able to measure in a given s
 
 I don't know how to put the markdowns from Jupyter directly into here, so I'm going to put all of the original .py and .ipynb files as well as their respective markdowns into this repository and the code into this README as well. 
 
+There's some other additional stuff in the repository that I didn't put into here. 
+
+Part 7 is in the file called.....
+
 # Observed Substrings 
 string = 'ATTTGGATT'
 
